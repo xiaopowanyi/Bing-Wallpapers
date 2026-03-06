@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-03-05 古老岩石现代灯光|2026-03-04 聚光灯下的番红花|2026-03-03 花灯映月团圆吉祥|
+|2026-03-06 混凝土中铸造的波浪|2026-03-05 古老岩石现代灯光|2026-03-04 聚光灯下的番红花|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/03/20260305_古老岩石现代灯光.jpg" width="300"> | <img src="Basics/2026/03/20260304_聚光灯下的番红花.jpg" width="300"> | <img src="Basics/2026/03/20260303_花灯映月团圆吉祥.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260305_古老岩石现代灯光.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260304_聚光灯下的番红花.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260303_花灯映月团圆吉祥.jpg)**|
+| <img src="Basics/2026/03/20260306_混凝土中铸造的波浪.jpg" width="300"> | <img src="Basics/2026/03/20260305_古老岩石现代灯光.jpg" width="300"> | <img src="Basics/2026/03/20260304_聚光灯下的番红花.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260306_混凝土中铸造的波浪.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260305_古老岩石现代灯光.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260304_聚光灯下的番红花.jpg)**|
 
 <!-- gallery_end -->
 
