@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-03-07 治愈宁静且充满希望|2026-03-06 混凝土中铸造的波浪|2026-03-05 古老岩石现代灯光|
+|2026-03-08 节约日光的艺术|2026-03-07 治愈宁静且充满希望|2026-03-06 混凝土中铸造的波浪|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/03/20260307_治愈宁静且充满希望.jpg" width="300"> | <img src="Basics/2026/03/20260306_混凝土中铸造的波浪.jpg" width="300"> | <img src="Basics/2026/03/20260305_古老岩石现代灯光.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260307_治愈宁静且充满希望.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260306_混凝土中铸造的波浪.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260305_古老岩石现代灯光.jpg)**|
+| <img src="Basics/2026/03/20260308_节约日光的艺术.jpg" width="300"> | <img src="Basics/2026/03/20260307_治愈宁静且充满希望.jpg" width="300"> | <img src="Basics/2026/03/20260306_混凝土中铸造的波浪.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260308_节约日光的艺术.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260307_治愈宁静且充满希望.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260306_混凝土中铸造的波浪.jpg)**|
 
 <!-- gallery_end -->
 
