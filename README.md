@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-03-10 霜下之火|2026-03-09 一次恰到好处的午睡|2026-03-08 节约日光的艺术|
+|2026-03-11 一个美好的春天|2026-03-10 霜下之火|2026-03-09 一次恰到好处的午睡|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/03/20260310_霜下之火.jpg" width="300"> | <img src="Basics/2026/03/20260309_一次恰到好处的午睡.jpg" width="300"> | <img src="Basics/2026/03/20260308_节约日光的艺术.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260310_霜下之火.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260309_一次恰到好处的午睡.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260308_节约日光的艺术.jpg)**|
+| <img src="Basics/2026/03/20260311_一个美好的春天.jpg" width="300"> | <img src="Basics/2026/03/20260310_霜下之火.jpg" width="300"> | <img src="Basics/2026/03/20260309_一次恰到好处的午睡.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260311_一个美好的春天.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260310_霜下之火.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260309_一次恰到好处的午睡.jpg)**|
 
 <!-- gallery_end -->
 
