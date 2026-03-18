@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-03-17 爱尔兰的精神十字路口|2026-03-16 走进熊猫世界|2026-03-15 掠海而过|
+|2026-03-18 城市花开|2026-03-17 爱尔兰的精神十字路口|2026-03-16 走进熊猫世界|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/03/20260317_爱尔兰的精神十字路口.jpg" width="300"> | <img src="Basics/2026/03/20260316_走进熊猫世界.jpg" width="300"> | <img src="Basics/2026/03/20260315_掠海而过.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260317_爱尔兰的精神十字路口.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260316_走进熊猫世界.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260315_掠海而过.jpg)**|
+| <img src="Basics/2026/03/20260318_城市花开.jpg" width="300"> | <img src="Basics/2026/03/20260317_爱尔兰的精神十字路口.jpg" width="300"> | <img src="Basics/2026/03/20260316_走进熊猫世界.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260318_城市花开.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260317_爱尔兰的精神十字路口.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260316_走进熊猫世界.jpg)**|
 
 <!-- gallery_end -->
 
