@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-03-19 激发你的好奇心|2026-03-18 城市花开|2026-03-17 爱尔兰的精神十字路口|
+|2026-03-20 春日绯梦|2026-03-19 激发你的好奇心|2026-03-18 城市花开|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/03/20260319_激发你的好奇心.jpg" width="300"> | <img src="Basics/2026/03/20260318_城市花开.jpg" width="300"> | <img src="Basics/2026/03/20260317_爱尔兰的精神十字路口.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260319_激发你的好奇心.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260318_城市花开.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260317_爱尔兰的精神十字路口.jpg)**|
+| <img src="Basics/2026/03/20260320_春日绯梦.jpg" width="300"> | <img src="Basics/2026/03/20260319_激发你的好奇心.jpg" width="300"> | <img src="Basics/2026/03/20260318_城市花开.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260320_春日绯梦.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260319_激发你的好奇心.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260318_城市花开.jpg)**|
 
 <!-- gallery_end -->
 
