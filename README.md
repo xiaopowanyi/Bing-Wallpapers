@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-03-26 凌驾荒野之上|2026-03-25 海牛的秘密生活|2026-03-24 春天的形状|
+|2026-03-27 依然明亮地燃烧着|2026-03-26 凌驾荒野之上|2026-03-25 海牛的秘密生活|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/03/20260326_凌驾荒野之上.jpg" width="300"> | <img src="Basics/2026/03/20260325_海牛的秘密生活.jpg" width="300"> | <img src="Basics/2026/03/20260324_春天的形状.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260326_凌驾荒野之上.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260325_海牛的秘密生活.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260324_春天的形状.jpg)**|
+| <img src="Basics/2026/03/20260327_依然明亮地燃烧着.jpg" width="300"> | <img src="Basics/2026/03/20260326_凌驾荒野之上.jpg" width="300"> | <img src="Basics/2026/03/20260325_海牛的秘密生活.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260327_依然明亮地燃烧着.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260326_凌驾荒野之上.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260325_海牛的秘密生活.jpg)**|
 
 <!-- gallery_end -->
 
