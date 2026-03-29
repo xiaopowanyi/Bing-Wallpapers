@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-03-28 未驯服的精神|2026-03-27 依然明亮地燃烧着|2026-03-26 凌驾荒野之上|
+|2026-03-29 海边的宁静|2026-03-28 未驯服的精神|2026-03-27 依然明亮地燃烧着|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/03/20260328_未驯服的精神.jpg" width="300"> | <img src="Basics/2026/03/20260327_依然明亮地燃烧着.jpg" width="300"> | <img src="Basics/2026/03/20260326_凌驾荒野之上.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260328_未驯服的精神.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260327_依然明亮地燃烧着.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260326_凌驾荒野之上.jpg)**|
+| <img src="Basics/2026/03/20260329_海边的宁静.jpg" width="300"> | <img src="Basics/2026/03/20260328_未驯服的精神.jpg" width="300"> | <img src="Basics/2026/03/20260327_依然明亮地燃烧着.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260329_海边的宁静.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260328_未驯服的精神.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260327_依然明亮地燃烧着.jpg)**|
 
 <!-- gallery_end -->
 
