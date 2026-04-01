@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-03-31 地下天堂|2026-03-30 优雅的动态|2026-03-29 海边的宁静|
+|2026-04-01 跃入四月|2026-03-31 地下天堂|2026-03-30 优雅的动态|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/03/20260331_地下天堂.jpg" width="300"> | <img src="Basics/2026/03/20260330_优雅的动态.jpg" width="300"> | <img src="Basics/2026/03/20260329_海边的宁静.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260331_地下天堂.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260330_优雅的动态.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260329_海边的宁静.jpg)**|
+| <img src="Basics/2026/04/20260401_跃入四月.jpg" width="300"> | <img src="Basics/2026/03/20260331_地下天堂.jpg" width="300"> | <img src="Basics/2026/03/20260330_优雅的动态.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260401_跃入四月.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260331_地下天堂.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/03/20260330_优雅的动态.jpg)**|
 
 <!-- gallery_end -->
 
