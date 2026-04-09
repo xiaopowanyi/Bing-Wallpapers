@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-04-08 翡翠之城|2026-04-07 一根树枝一点工程|2026-04-06 芬芳四月|
+|2026-04-09 光之水帘|2026-04-08 翡翠之城|2026-04-07 一根树枝一点工程|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/04/20260408_翡翠之城.jpg" width="300"> | <img src="Basics/2026/04/20260407_一根树枝一点工程.jpg" width="300"> | <img src="Basics/2026/04/20260406_芬芳四月.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260408_翡翠之城.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260407_一根树枝一点工程.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260406_芬芳四月.jpg)**|
+| <img src="Basics/2026/04/20260409_光之水帘.jpg" width="300"> | <img src="Basics/2026/04/20260408_翡翠之城.jpg" width="300"> | <img src="Basics/2026/04/20260407_一根树枝一点工程.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260409_光之水帘.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260408_翡翠之城.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260407_一根树枝一点工程.jpg)**|
 
 <!-- gallery_end -->
 
