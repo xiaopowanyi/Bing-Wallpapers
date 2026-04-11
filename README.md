@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-04-10 算计的小爪子|2026-04-09 光之水帘|2026-04-08 翡翠之城|
+|2026-04-11 火山外衣|2026-04-10 算计的小爪子|2026-04-09 光之水帘|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/04/20260410_算计的小爪子.jpg" width="300"> | <img src="Basics/2026/04/20260409_光之水帘.jpg" width="300"> | <img src="Basics/2026/04/20260408_翡翠之城.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260410_算计的小爪子.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260409_光之水帘.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260408_翡翠之城.jpg)**|
+| <img src="Basics/2026/04/20260411_火山外衣.jpg" width="300"> | <img src="Basics/2026/04/20260410_算计的小爪子.jpg" width="300"> | <img src="Basics/2026/04/20260409_光之水帘.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260411_火山外衣.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260410_算计的小爪子.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260409_光之水帘.jpg)**|
 
 <!-- gallery_end -->
 
