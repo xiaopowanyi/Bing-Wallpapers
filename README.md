@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-04-13 当灯光熄灭之后|2026-04-12 离开地球的第一步|2026-04-11 火山外衣|
+|2026-04-14 珊瑚礁邻居|2026-04-13 当灯光熄灭之后|2026-04-12 离开地球的第一步|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/04/20260413_当灯光熄灭之后.jpg" width="300"> | <img src="Basics/2026/04/20260412_离开地球的第一步.jpg" width="300"> | <img src="Basics/2026/04/20260411_火山外衣.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260413_当灯光熄灭之后.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260412_离开地球的第一步.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260411_火山外衣.jpg)**|
+| <img src="Basics/2026/04/20260414_珊瑚礁邻居.jpg" width="300"> | <img src="Basics/2026/04/20260413_当灯光熄灭之后.jpg" width="300"> | <img src="Basics/2026/04/20260412_离开地球的第一步.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260414_珊瑚礁邻居.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260413_当灯光熄灭之后.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260412_离开地球的第一步.jpg)**|
 
 <!-- gallery_end -->
 
