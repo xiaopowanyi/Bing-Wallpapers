@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-04-19 潮汐留下的印记|2026-04-18 未完成巨像的静默|2026-04-17 蝙蝠信号开启|
+|2026-04-20 日落之后探索仍在继续|2026-04-19 潮汐留下的印记|2026-04-18 未完成巨像的静默|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/04/20260419_潮汐留下的印记.jpg" width="300"> | <img src="Basics/2026/04/20260418_未完成巨像的静默.jpg" width="300"> | <img src="Basics/2026/04/20260417_蝙蝠信号开启.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260419_潮汐留下的印记.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260418_未完成巨像的静默.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260417_蝙蝠信号开启.jpg)**|
+| <img src="Basics/2026/04/20260420_日落之后探索仍在继续.jpg" width="300"> | <img src="Basics/2026/04/20260419_潮汐留下的印记.jpg" width="300"> | <img src="Basics/2026/04/20260418_未完成巨像的静默.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260420_日落之后探索仍在继续.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260419_潮汐留下的印记.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260418_未完成巨像的静默.jpg)**|
 
 <!-- gallery_end -->
 
