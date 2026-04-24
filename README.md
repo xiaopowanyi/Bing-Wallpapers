@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-04-23 一座充满故事的小屋|2026-04-22 行动的力量|2026-04-21 春季的带刺巡逻兵|
+|2026-04-24 向树木致敬|2026-04-23 一座充满故事的小屋|2026-04-22 行动的力量|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/04/20260423_一座充满故事的小屋.jpg" width="300"> | <img src="Basics/2026/04/20260422_行动的力量.jpg" width="300"> | <img src="Basics/2026/04/20260421_春季的带刺巡逻兵.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260423_一座充满故事的小屋.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260422_行动的力量.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260421_春季的带刺巡逻兵.jpg)**|
+| <img src="Basics/2026/04/20260424_向树木致敬.jpg" width="300"> | <img src="Basics/2026/04/20260423_一座充满故事的小屋.jpg" width="300"> | <img src="Basics/2026/04/20260422_行动的力量.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260424_向树木致敬.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260423_一座充满故事的小屋.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260422_行动的力量.jpg)**|
 
 <!-- gallery_end -->
 
