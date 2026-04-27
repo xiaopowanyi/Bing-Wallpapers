@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-04-26 繁花盛放|2026-04-25 打破企鹅规则|2026-04-24 向树木致敬|
+|2026-04-27 有格调的玻璃|2026-04-26 繁花盛放|2026-04-25 打破企鹅规则|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/04/20260426_繁花盛放.jpg" width="300"> | <img src="Basics/2026/04/20260425_打破企鹅规则.jpg" width="300"> | <img src="Basics/2026/04/20260424_向树木致敬.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260426_繁花盛放.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260425_打破企鹅规则.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260424_向树木致敬.jpg)**|
+| <img src="Basics/2026/04/20260427_有格调的玻璃.jpg" width="300"> | <img src="Basics/2026/04/20260426_繁花盛放.jpg" width="300"> | <img src="Basics/2026/04/20260425_打破企鹅规则.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260427_有格调的玻璃.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260426_繁花盛放.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260425_打破企鹅规则.jpg)**|
 
 <!-- gallery_end -->
 
