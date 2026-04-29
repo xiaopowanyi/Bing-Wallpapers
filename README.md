@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-04-28 野外奇观|2026-04-27 有格调的玻璃|2026-04-26 繁花盛放|
+|2026-04-29 历史镌刻于石上|2026-04-28 野外奇观|2026-04-27 有格调的玻璃|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/04/20260428_野外奇观.jpg" width="300"> | <img src="Basics/2026/04/20260427_有格调的玻璃.jpg" width="300"> | <img src="Basics/2026/04/20260426_繁花盛放.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260428_野外奇观.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260427_有格调的玻璃.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260426_繁花盛放.jpg)**|
+| <img src="Basics/2026/04/20260429_历史镌刻于石上.jpg" width="300"> | <img src="Basics/2026/04/20260428_野外奇观.jpg" width="300"> | <img src="Basics/2026/04/20260427_有格调的玻璃.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260429_历史镌刻于石上.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260428_野外奇观.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260427_有格调的玻璃.jpg)**|
 
 <!-- gallery_end -->
 
