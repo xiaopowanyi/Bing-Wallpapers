@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-05-01 初夏翠微长城|2026-04-30 郁金香是这里的主角|2026-04-29 历史镌刻于石上|
+|2026-05-02 贾斯珀的自然魅力|2026-05-01 初夏翠微长城|2026-04-30 郁金香是这里的主角|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/05/20260501_初夏翠微长城.jpg" width="300"> | <img src="Basics/2026/04/20260430_郁金香是这里的主角.jpg" width="300"> | <img src="Basics/2026/04/20260429_历史镌刻于石上.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260501_初夏翠微长城.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260430_郁金香是这里的主角.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260429_历史镌刻于石上.jpg)**|
+| <img src="Basics/2026/05/20260502_贾斯珀的自然魅力.jpg" width="300"> | <img src="Basics/2026/05/20260501_初夏翠微长城.jpg" width="300"> | <img src="Basics/2026/04/20260430_郁金香是这里的主角.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260502_贾斯珀的自然魅力.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260501_初夏翠微长城.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/04/20260430_郁金香是这里的主角.jpg)**|
 
 <!-- gallery_end -->
 
