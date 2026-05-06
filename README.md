@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-05-05 藕花风起首夏清和|2026-05-04 科幻源于现实|2026-05-03 萨瓦纳的晚霞|
+|2026-05-06 承受压力之下的平原|2026-05-05 藕花风起首夏清和|2026-05-04 科幻源于现实|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/05/20260505_藕花风起首夏清和.jpg" width="300"> | <img src="Basics/2026/05/20260504_科幻源于现实.jpg" width="300"> | <img src="Basics/2026/05/20260503_萨瓦纳的晚霞.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260505_藕花风起首夏清和.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260504_科幻源于现实.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260503_萨瓦纳的晚霞.jpg)**|
+| <img src="Basics/2026/05/20260506_承受压力之下的平原.jpg" width="300"> | <img src="Basics/2026/05/20260505_藕花风起首夏清和.jpg" width="300"> | <img src="Basics/2026/05/20260504_科幻源于现实.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260506_承受压力之下的平原.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260505_藕花风起首夏清和.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260504_科幻源于现实.jpg)**|
 
 <!-- gallery_end -->
 
