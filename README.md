@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-05-12 振翅潜水生存|2026-05-11 水下建筑|2026-05-10 一份经久不衰的羁绊|
-| :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/05/20260512_振翅潜水生存.jpg" width="300"> | <img src="Basics/2026/05/20260511_水下建筑.jpg" width="300"> | <img src="Basics/2026/05/20260510_一份经久不衰的羁绊.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260512_振翅潜水生存.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260511_水下建筑.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260510_一份经久不衰的羁绊.jpg)**|
+|2026-05-13 银河系摇滚吧|
+| :--------------------------------------------: |
+| <img src="Basics/2026/05/20260513_银河系摇滚吧.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260513_银河系摇滚吧.jpg)**|
 
 <!-- gallery_end -->
 
