@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-05-22 海洋生命的律动|2026-05-21 酿造传承|2026-05-20 喧闹从这里开始|
+|2026-05-23 为龟类喝彩|2026-05-22 海洋生命的律动|2026-05-21 酿造传承|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/05/20260522_海洋生命的律动.jpg" width="300"> | <img src="Basics/2026/05/20260521_酿造传承.jpg" width="300"> | <img src="Basics/2026/05/20260520_喧闹从这里开始.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260522_海洋生命的律动.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260521_酿造传承.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260520_喧闹从这里开始.jpg)**|
+| <img src="Basics/2026/05/20260523_为龟类喝彩.jpg" width="300"> | <img src="Basics/2026/05/20260522_海洋生命的律动.jpg" width="300"> | <img src="Basics/2026/05/20260521_酿造传承.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260523_为龟类喝彩.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260522_海洋生命的律动.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260521_酿造传承.jpg)**|
 
 <!-- gallery_end -->
 
