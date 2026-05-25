@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-05-24 守护欧洲的自然净土|2026-05-23 为龟类喝彩|2026-05-22 海洋生命的律动|
+|2026-05-25 石间的清风|2026-05-24 守护欧洲的自然净土|2026-05-23 为龟类喝彩|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/05/20260524_守护欧洲的自然净土.jpg" width="300"> | <img src="Basics/2026/05/20260523_为龟类喝彩.jpg" width="300"> | <img src="Basics/2026/05/20260522_海洋生命的律动.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260524_守护欧洲的自然净土.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260523_为龟类喝彩.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260522_海洋生命的律动.jpg)**|
+| <img src="Basics/2026/05/20260525_石间的清风.jpg" width="300"> | <img src="Basics/2026/05/20260524_守护欧洲的自然净土.jpg" width="300"> | <img src="Basics/2026/05/20260523_为龟类喝彩.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260525_石间的清风.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260524_守护欧洲的自然净土.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260523_为龟类喝彩.jpg)**|
 
 <!-- gallery_end -->
 
