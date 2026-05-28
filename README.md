@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-05-27 它们獭独一无二|2026-05-26 羽扇豆书写的季节|2026-05-25 石间的清风|
+|2026-05-28 设计与秩序相结合|2026-05-27 它们獭独一无二|2026-05-26 羽扇豆书写的季节|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/05/20260527_它们獭独一无二.jpg" width="300"> | <img src="Basics/2026/05/20260526_羽扇豆书写的季节.jpg" width="300"> | <img src="Basics/2026/05/20260525_石间的清风.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260527_它们獭独一无二.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260526_羽扇豆书写的季节.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260525_石间的清风.jpg)**|
+| <img src="Basics/2026/05/20260528_设计与秩序相结合.jpg" width="300"> | <img src="Basics/2026/05/20260527_它们獭独一无二.jpg" width="300"> | <img src="Basics/2026/05/20260526_羽扇豆书写的季节.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260528_设计与秩序相结合.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260527_它们獭独一无二.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260526_羽扇豆书写的季节.jpg)**|
 
 <!-- gallery_end -->
 
