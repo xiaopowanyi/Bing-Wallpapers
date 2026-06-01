@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-05-31 顺流而行|2026-05-30 读懂黑白之间|2026-05-29 巅峰历史时刻|
+|2026-06-01 历史的况味|2026-05-31 顺流而行|2026-05-30 读懂黑白之间|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/05/20260531_顺流而行.jpg" width="300"> | <img src="Basics/2026/05/20260530_读懂黑白之间.jpg" width="300"> | <img src="Basics/2026/05/20260529_巅峰历史时刻.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260531_顺流而行.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260530_读懂黑白之间.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260529_巅峰历史时刻.jpg)**|
+| <img src="Basics/2026/06/20260601_历史的况味.jpg" width="300"> | <img src="Basics/2026/05/20260531_顺流而行.jpg" width="300"> | <img src="Basics/2026/05/20260530_读懂黑白之间.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260601_历史的况味.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260531_顺流而行.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/05/20260530_读懂黑白之间.jpg)**|
 
 <!-- gallery_end -->
 
