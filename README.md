@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-06-06 多走走多思考|2026-06-05 无人问津之地的静默力量|2026-06-04 优雅羽饰|
+|2026-06-07 最后一堵墙矗立着|2026-06-06 多走走多思考|2026-06-05 无人问津之地的静默力量|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/06/20260606_多走走多思考.jpg" width="300"> | <img src="Basics/2026/06/20260605_无人问津之地的静默力量.jpg" width="300"> | <img src="Basics/2026/06/20260604_优雅羽饰.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260606_多走走多思考.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260605_无人问津之地的静默力量.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260604_优雅羽饰.jpg)**|
+| <img src="Basics/2026/06/20260607_最后一堵墙矗立着.jpg" width="300"> | <img src="Basics/2026/06/20260606_多走走多思考.jpg" width="300"> | <img src="Basics/2026/06/20260605_无人问津之地的静默力量.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260607_最后一堵墙矗立着.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260606_多走走多思考.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260605_无人问津之地的静默力量.jpg)**|
 
 <!-- gallery_end -->
 
