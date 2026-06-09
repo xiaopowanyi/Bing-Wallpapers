@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-06-08 随波逐流|2026-06-07 最后一堵墙矗立着|2026-06-06 多走走多思考|
+|2026-06-09 品尝日落|2026-06-08 随波逐流|2026-06-07 最后一堵墙矗立着|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/06/20260608_随波逐流.jpg" width="300"> | <img src="Basics/2026/06/20260607_最后一堵墙矗立着.jpg" width="300"> | <img src="Basics/2026/06/20260606_多走走多思考.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260608_随波逐流.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260607_最后一堵墙矗立着.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260606_多走走多思考.jpg)**|
+| <img src="Basics/2026/06/20260609_品尝日落.jpg" width="300"> | <img src="Basics/2026/06/20260608_随波逐流.jpg" width="300"> | <img src="Basics/2026/06/20260607_最后一堵墙矗立着.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260609_品尝日落.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260608_随波逐流.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260607_最后一堵墙矗立着.jpg)**|
 
 <!-- gallery_end -->
 
