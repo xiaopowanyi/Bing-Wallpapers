@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-06-12 惊鸿一瞥|2026-06-11 沉静的力量|2026-06-10 一抹蓝色|
+|2026-06-13 岁月的层峦|2026-06-12 惊鸿一瞥|2026-06-11 沉静的力量|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/06/20260612_惊鸿一瞥.jpg" width="300"> | <img src="Basics/2026/06/20260611_沉静的力量.jpg" width="300"> | <img src="Basics/2026/06/20260610_一抹蓝色.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260612_惊鸿一瞥.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260611_沉静的力量.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260610_一抹蓝色.jpg)**|
+| <img src="Basics/2026/06/20260613_岁月的层峦.jpg" width="300"> | <img src="Basics/2026/06/20260612_惊鸿一瞥.jpg" width="300"> | <img src="Basics/2026/06/20260611_沉静的力量.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260613_岁月的层峦.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260612_惊鸿一瞥.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260611_沉静的力量.jpg)**|
 
 <!-- gallery_end -->
 
