@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-06-15 岁月雕琢风景始成|2026-06-14 潜羽探清波|2026-06-13 岁月的层峦|
+|2026-06-16 蔚蓝海礁的守护者|2026-06-15 岁月雕琢风景始成|2026-06-14 潜羽探清波|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/06/20260615_岁月雕琢风景始成.jpg" width="300"> | <img src="Basics/2026/06/20260614_潜羽探清波.jpg" width="300"> | <img src="Basics/2026/06/20260613_岁月的层峦.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260615_岁月雕琢风景始成.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260614_潜羽探清波.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260613_岁月的层峦.jpg)**|
+| <img src="Basics/2026/06/20260616_蔚蓝海礁的守护者.jpg" width="300"> | <img src="Basics/2026/06/20260615_岁月雕琢风景始成.jpg" width="300"> | <img src="Basics/2026/06/20260614_潜羽探清波.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260616_蔚蓝海礁的守护者.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260615_岁月雕琢风景始成.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260614_潜羽探清波.jpg)**|
 
 <!-- gallery_end -->
 
