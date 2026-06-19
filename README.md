@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-06-18 坚如磐石的奇观|2026-06-17 蜿蜒而上|2026-06-16 蔚蓝海礁的守护者|
+|2026-06-19 龙吟古韵|2026-06-18 坚如磐石的奇观|2026-06-17 蜿蜒而上|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/06/20260618_坚如磐石的奇观.jpg" width="300"> | <img src="Basics/2026/06/20260617_蜿蜒而上.jpg" width="300"> | <img src="Basics/2026/06/20260616_蔚蓝海礁的守护者.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260618_坚如磐石的奇观.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260617_蜿蜒而上.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260616_蔚蓝海礁的守护者.jpg)**|
+| <img src="Basics/2026/06/20260619_龙吟古韵.jpg" width="300"> | <img src="Basics/2026/06/20260618_坚如磐石的奇观.jpg" width="300"> | <img src="Basics/2026/06/20260617_蜿蜒而上.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260619_龙吟古韵.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260618_坚如磐石的奇观.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260617_蜿蜒而上.jpg)**|
 
 <!-- gallery_end -->
 
