@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-06-20 海洋中冰封的大教堂|2026-06-19 龙吟古韵|2026-06-18 坚如磐石的奇观|
+|2026-06-21 鸟类好爸爸|2026-06-20 海洋中冰封的大教堂|2026-06-19 龙吟古韵|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/06/20260620_海洋中冰封的大教堂.jpg" width="300"> | <img src="Basics/2026/06/20260619_龙吟古韵.jpg" width="300"> | <img src="Basics/2026/06/20260618_坚如磐石的奇观.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260620_海洋中冰封的大教堂.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260619_龙吟古韵.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260618_坚如磐石的奇观.jpg)**|
+| <img src="Basics/2026/06/20260621_鸟类好爸爸.jpg" width="300"> | <img src="Basics/2026/06/20260620_海洋中冰封的大教堂.jpg" width="300"> | <img src="Basics/2026/06/20260619_龙吟古韵.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260621_鸟类好爸爸.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260620_海洋中冰封的大教堂.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260619_龙吟古韵.jpg)**|
 
 <!-- gallery_end -->
 
