@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-06-24 花粉与翅膀相遇|2026-06-23 天际线上的印记|2026-06-22 一个郁郁葱葱的王国|
+|2026-06-25 在广场中感受历史|2026-06-24 花粉与翅膀相遇|2026-06-23 天际线上的印记|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/06/20260624_花粉与翅膀相遇.jpg" width="300"> | <img src="Basics/2026/06/20260623_天际线上的印记.jpg" width="300"> | <img src="Basics/2026/06/20260622_一个郁郁葱葱的王国.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260624_花粉与翅膀相遇.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260623_天际线上的印记.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260622_一个郁郁葱葱的王国.jpg)**|
+| <img src="Basics/2026/06/20260625_在广场中感受历史.jpg" width="300"> | <img src="Basics/2026/06/20260624_花粉与翅膀相遇.jpg" width="300"> | <img src="Basics/2026/06/20260623_天际线上的印记.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260625_在广场中感受历史.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260624_花粉与翅膀相遇.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260623_天际线上的印记.jpg)**|
 
 <!-- gallery_end -->
 
