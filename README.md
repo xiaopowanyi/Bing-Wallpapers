@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-06-27 逐渐失去立足之地的树木|2026-06-26 时事|2026-06-25 在广场中感受历史|
+|2026-06-28 看起来很精神|2026-06-27 逐渐失去立足之地的树木|2026-06-26 时事|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/06/20260627_逐渐失去立足之地的树木.jpg" width="300"> | <img src="Basics/2026/06/20260626_时事.jpg" width="300"> | <img src="Basics/2026/06/20260625_在广场中感受历史.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260627_逐渐失去立足之地的树木.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260626_时事.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260625_在广场中感受历史.jpg)**|
+| <img src="Basics/2026/06/20260628_看起来很精神.jpg" width="300"> | <img src="Basics/2026/06/20260627_逐渐失去立足之地的树木.jpg" width="300"> | <img src="Basics/2026/06/20260626_时事.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260628_看起来很精神.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260627_逐渐失去立足之地的树木.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260626_时事.jpg)**|
 
 <!-- gallery_end -->
 
