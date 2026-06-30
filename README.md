@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-06-29 生于烈火拥于碧水|2026-06-28 看起来很精神|2026-06-27 逐渐失去立足之地的树木|
+|2026-06-30 阴影被拉得修长之处|2026-06-29 生于烈火拥于碧水|2026-06-28 看起来很精神|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/06/20260629_生于烈火拥于碧水.jpg" width="300"> | <img src="Basics/2026/06/20260628_看起来很精神.jpg" width="300"> | <img src="Basics/2026/06/20260627_逐渐失去立足之地的树木.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260629_生于烈火拥于碧水.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260628_看起来很精神.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260627_逐渐失去立足之地的树木.jpg)**|
+| <img src="Basics/2026/06/20260630_阴影被拉得修长之处.jpg" width="300"> | <img src="Basics/2026/06/20260629_生于烈火拥于碧水.jpg" width="300"> | <img src="Basics/2026/06/20260628_看起来很精神.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260630_阴影被拉得修长之处.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260629_生于烈火拥于碧水.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260628_看起来很精神.jpg)**|
 
 <!-- gallery_end -->
 
