@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-07-01 大西洋雕琢而成的加拿大|2026-06-30 阴影被拉得修长之处|2026-06-29 生于烈火拥于碧水|
+|2026-07-02 走进埃斯纳神圣的世界|2026-07-01 大西洋雕琢而成的加拿大|2026-06-30 阴影被拉得修长之处|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/07/20260701_大西洋雕琢而成的加拿大.jpg" width="300"> | <img src="Basics/2026/06/20260630_阴影被拉得修长之处.jpg" width="300"> | <img src="Basics/2026/06/20260629_生于烈火拥于碧水.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260701_大西洋雕琢而成的加拿大.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260630_阴影被拉得修长之处.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260629_生于烈火拥于碧水.jpg)**|
+| <img src="Basics/2026/07/20260702_走进埃斯纳神圣的世界.jpg" width="300"> | <img src="Basics/2026/07/20260701_大西洋雕琢而成的加拿大.jpg" width="300"> | <img src="Basics/2026/06/20260630_阴影被拉得修长之处.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260702_走进埃斯纳神圣的世界.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260701_大西洋雕琢而成的加拿大.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/06/20260630_阴影被拉得修长之处.jpg)**|
 
 <!-- gallery_end -->
 
