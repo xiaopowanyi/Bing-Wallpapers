@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-07-04 此行不虚绕道|2026-07-03 流光之诗|2026-07-02 走进埃斯纳神圣的世界|
+|2026-07-05 紫色花海|2026-07-04 此行不虚绕道|2026-07-03 流光之诗|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/07/20260704_此行不虚绕道.jpg" width="300"> | <img src="Basics/2026/07/20260703_流光之诗.jpg" width="300"> | <img src="Basics/2026/07/20260702_走进埃斯纳神圣的世界.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260704_此行不虚绕道.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260703_流光之诗.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260702_走进埃斯纳神圣的世界.jpg)**|
+| <img src="Basics/2026/07/20260705_紫色花海.jpg" width="300"> | <img src="Basics/2026/07/20260704_此行不虚绕道.jpg" width="300"> | <img src="Basics/2026/07/20260703_流光之诗.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260705_紫色花海.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260704_此行不虚绕道.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260703_流光之诗.jpg)**|
 
 <!-- gallery_end -->
 
