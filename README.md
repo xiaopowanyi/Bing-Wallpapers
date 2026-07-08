@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-07-07 林冠华彩|2026-07-06 百代镌刻之城|2026-07-05 紫色花海|
+|2026-07-08 远古火山的回响|2026-07-07 林冠华彩|2026-07-06 百代镌刻之城|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/07/20260707_林冠华彩.jpg" width="300"> | <img src="Basics/2026/07/20260706_百代镌刻之城.jpg" width="300"> | <img src="Basics/2026/07/20260705_紫色花海.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260707_林冠华彩.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260706_百代镌刻之城.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260705_紫色花海.jpg)**|
+| <img src="Basics/2026/07/20260708_远古火山的回响.jpg" width="300"> | <img src="Basics/2026/07/20260707_林冠华彩.jpg" width="300"> | <img src="Basics/2026/07/20260706_百代镌刻之城.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260708_远古火山的回响.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260707_林冠华彩.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260706_百代镌刻之城.jpg)**|
 
 <!-- gallery_end -->
 
