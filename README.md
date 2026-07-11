@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-07-10 陆地与海洋的鸟瞰图|2026-07-09 步步传承|2026-07-08 远古火山的回响|
+|2026-07-11 布列塔尼的潮汐之约|2026-07-10 陆地与海洋的鸟瞰图|2026-07-09 步步传承|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/07/20260710_陆地与海洋的鸟瞰图.jpg" width="300"> | <img src="Basics/2026/07/20260709_步步传承.jpg" width="300"> | <img src="Basics/2026/07/20260708_远古火山的回响.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260710_陆地与海洋的鸟瞰图.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260709_步步传承.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260708_远古火山的回响.jpg)**|
+| <img src="Basics/2026/07/20260711_布列塔尼的潮汐之约.jpg" width="300"> | <img src="Basics/2026/07/20260710_陆地与海洋的鸟瞰图.jpg" width="300"> | <img src="Basics/2026/07/20260709_步步传承.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260711_布列塔尼的潮汐之约.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260710_陆地与海洋的鸟瞰图.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260709_步步传承.jpg)**|
 
 <!-- gallery_end -->
 
