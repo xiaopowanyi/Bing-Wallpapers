@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-07-12 缅因州的狂野一面|2026-07-11 布列塔尼的潮汐之约|2026-07-10 陆地与海洋的鸟瞰图|
+|2026-07-13 为摇滚而生|2026-07-12 缅因州的狂野一面|2026-07-11 布列塔尼的潮汐之约|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/07/20260712_缅因州的狂野一面.jpg" width="300"> | <img src="Basics/2026/07/20260711_布列塔尼的潮汐之约.jpg" width="300"> | <img src="Basics/2026/07/20260710_陆地与海洋的鸟瞰图.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260712_缅因州的狂野一面.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260711_布列塔尼的潮汐之约.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260710_陆地与海洋的鸟瞰图.jpg)**|
+| <img src="Basics/2026/07/20260713_为摇滚而生.jpg" width="300"> | <img src="Basics/2026/07/20260712_缅因州的狂野一面.jpg" width="300"> | <img src="Basics/2026/07/20260711_布列塔尼的潮汐之约.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260713_为摇滚而生.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260712_缅因州的狂野一面.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260711_布列塔尼的潮汐之约.jpg)**|
 
 <!-- gallery_end -->
 
