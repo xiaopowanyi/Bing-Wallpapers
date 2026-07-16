@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-07-15 攀登后的奖励|2026-07-14 奇妙的真相|2026-07-13 为摇滚而生|
+|2026-07-16 滨水变色龙|2026-07-15 攀登后的奖励|2026-07-14 奇妙的真相|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/07/20260715_攀登后的奖励.jpg" width="300"> | <img src="Basics/2026/07/20260714_奇妙的真相.jpg" width="300"> | <img src="Basics/2026/07/20260713_为摇滚而生.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260715_攀登后的奖励.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260714_奇妙的真相.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260713_为摇滚而生.jpg)**|
+| <img src="Basics/2026/07/20260716_滨水变色龙.jpg" width="300"> | <img src="Basics/2026/07/20260715_攀登后的奖励.jpg" width="300"> | <img src="Basics/2026/07/20260714_奇妙的真相.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260716_滨水变色龙.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260715_攀登后的奖励.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260714_奇妙的真相.jpg)**|
 
 <!-- gallery_end -->
 
