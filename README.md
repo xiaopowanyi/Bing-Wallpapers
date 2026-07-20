@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-07-19 敛羽栖时|2026-07-18 环影圆成|2026-07-17 希腊式的逃离|
+|2026-07-20 月瞰寰宇|2026-07-19 敛羽栖时|2026-07-18 环影圆成|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/07/20260719_敛羽栖时.jpg" width="300"> | <img src="Basics/2026/07/20260718_环影圆成.jpg" width="300"> | <img src="Basics/2026/07/20260717_希腊式的逃离.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260719_敛羽栖时.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260718_环影圆成.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260717_希腊式的逃离.jpg)**|
+| <img src="Basics/2026/07/20260720_月瞰寰宇.jpg" width="300"> | <img src="Basics/2026/07/20260719_敛羽栖时.jpg" width="300"> | <img src="Basics/2026/07/20260718_环影圆成.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260720_月瞰寰宇.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260719_敛羽栖时.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260718_环影圆成.jpg)**|
 
 <!-- gallery_end -->
 
