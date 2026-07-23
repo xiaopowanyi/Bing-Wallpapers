@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-07-22 细微之举影响深远|2026-07-21 拱影寻踪|2026-07-20 月瞰寰宇|
+|2026-07-23 瓣叠交响|2026-07-22 细微之举影响深远|2026-07-21 拱影寻踪|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/07/20260722_细微之举影响深远.jpg" width="300"> | <img src="Basics/2026/07/20260721_拱影寻踪.jpg" width="300"> | <img src="Basics/2026/07/20260720_月瞰寰宇.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260722_细微之举影响深远.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260721_拱影寻踪.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260720_月瞰寰宇.jpg)**|
+| <img src="Basics/2026/07/20260723_瓣叠交响.jpg" width="300"> | <img src="Basics/2026/07/20260722_细微之举影响深远.jpg" width="300"> | <img src="Basics/2026/07/20260721_拱影寻踪.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260723_瓣叠交响.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260722_细微之举影响深远.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260721_拱影寻踪.jpg)**|
 
 <!-- gallery_end -->
 
