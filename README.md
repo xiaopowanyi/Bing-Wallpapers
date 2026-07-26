@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-07-25 加境幽廊|2026-07-24 缤纷多彩的一家人|2026-07-23 瓣叠交响|
+|2026-07-26 海陆际会生机肇始|2026-07-25 加境幽廊|2026-07-24 缤纷多彩的一家人|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/07/20260725_加境幽廊.jpg" width="300"> | <img src="Basics/2026/07/20260724_缤纷多彩的一家人.jpg" width="300"> | <img src="Basics/2026/07/20260723_瓣叠交响.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260725_加境幽廊.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260724_缤纷多彩的一家人.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260723_瓣叠交响.jpg)**|
+| <img src="Basics/2026/07/20260726_海陆际会生机肇始.jpg" width="300"> | <img src="Basics/2026/07/20260725_加境幽廊.jpg" width="300"> | <img src="Basics/2026/07/20260724_缤纷多彩的一家人.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260726_海陆际会生机肇始.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260725_加境幽廊.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260724_缤纷多彩的一家人.jpg)**|
 
 <!-- gallery_end -->
 
