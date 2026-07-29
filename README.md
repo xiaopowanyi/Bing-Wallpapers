@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-07-28 生机律动恒久之衡|2026-07-27 仰望芝城流光溢彩|2026-07-26 海陆际会生机肇始|
+|2026-07-29 虎啸归来锐爪重临|2026-07-28 生机律动恒久之衡|2026-07-27 仰望芝城流光溢彩|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/07/20260728_生机律动恒久之衡.jpg" width="300"> | <img src="Basics/2026/07/20260727_仰望芝城流光溢彩.jpg" width="300"> | <img src="Basics/2026/07/20260726_海陆际会生机肇始.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260728_生机律动恒久之衡.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260727_仰望芝城流光溢彩.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260726_海陆际会生机肇始.jpg)**|
+| <img src="Basics/2026/07/20260729_虎啸归来锐爪重临.jpg" width="300"> | <img src="Basics/2026/07/20260728_生机律动恒久之衡.jpg" width="300"> | <img src="Basics/2026/07/20260727_仰望芝城流光溢彩.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260729_虎啸归来锐爪重临.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260728_生机律动恒久之衡.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260727_仰望芝城流光溢彩.jpg)**|
 
 <!-- gallery_end -->
 
