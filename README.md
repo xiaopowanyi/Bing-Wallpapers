@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-07-30 旷野无声活态传承之境|2026-07-29 虎啸归来锐爪重临|2026-07-28 生机律动恒久之衡|
+|2026-07-31 穿越时光的足迹|2026-07-30 旷野无声活态传承之境|2026-07-29 虎啸归来锐爪重临|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/07/20260730_旷野无声活态传承之境.jpg" width="300"> | <img src="Basics/2026/07/20260729_虎啸归来锐爪重临.jpg" width="300"> | <img src="Basics/2026/07/20260728_生机律动恒久之衡.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260730_旷野无声活态传承之境.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260729_虎啸归来锐爪重临.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260728_生机律动恒久之衡.jpg)**|
+| <img src="Basics/2026/07/20260731_穿越时光的足迹.jpg" width="300"> | <img src="Basics/2026/07/20260730_旷野无声活态传承之境.jpg" width="300"> | <img src="Basics/2026/07/20260729_虎啸归来锐爪重临.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260731_穿越时光的足迹.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260730_旷野无声活态传承之境.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260729_虎啸归来锐爪重临.jpg)**|
 
 <!-- gallery_end -->
 
