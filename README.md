@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-01 基拉韦厄火山的威力|2026-07-31 穿越时光的足迹|2026-07-30 旷野无声活态传承之境|
+|2026-08-02 色彩鲜艳的船只历久弥新的传统|2026-08-01 基拉韦厄火山的威力|2026-07-31 穿越时光的足迹|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260801_基拉韦厄火山的威力.jpg" width="300"> | <img src="Basics/2026/07/20260731_穿越时光的足迹.jpg" width="300"> | <img src="Basics/2026/07/20260730_旷野无声活态传承之境.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260801_基拉韦厄火山的威力.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260731_穿越时光的足迹.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260730_旷野无声活态传承之境.jpg)**|
+| <img src="Basics/2026/08/20260802_色彩鲜艳的船只历久弥新的传统.jpg" width="300"> | <img src="Basics/2026/08/20260801_基拉韦厄火山的威力.jpg" width="300"> | <img src="Basics/2026/07/20260731_穿越时光的足迹.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260802_色彩鲜艳的船只历久弥新的传统.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260801_基拉韦厄火山的威力.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/07/20260731_穿越时光的足迹.jpg)**|
 
 <!-- gallery_end -->
 
