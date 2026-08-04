@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-03 色彩鲜艳的船只历久弥新的传统|2026-08-02 色彩鲜艳的船只历久弥新的传统|2026-08-01 基拉韦厄火山的威力|
+|2026-08-04 呼呼太棒了|2026-08-03 色彩鲜艳的船只历久弥新的传统|2026-08-02 色彩鲜艳的船只历久弥新的传统|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260803_色彩鲜艳的船只历久弥新的传统.jpg" width="300"> | <img src="Basics/2026/08/20260802_色彩鲜艳的船只历久弥新的传统.jpg" width="300"> | <img src="Basics/2026/08/20260801_基拉韦厄火山的威力.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260803_色彩鲜艳的船只历久弥新的传统.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260802_色彩鲜艳的船只历久弥新的传统.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260801_基拉韦厄火山的威力.jpg)**|
+| <img src="Basics/2026/08/20260804_呼呼太棒了.jpg" width="300"> | <img src="Basics/2026/08/20260803_色彩鲜艳的船只历久弥新的传统.jpg" width="300"> | <img src="Basics/2026/08/20260802_色彩鲜艳的船只历久弥新的传统.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260804_呼呼太棒了.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260803_色彩鲜艳的船只历久弥新的传统.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260802_色彩鲜艳的船只历久弥新的传统.jpg)**|
 
 <!-- gallery_end -->
 
