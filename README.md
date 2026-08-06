@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-05 秘境之门匠心传世|2026-08-04 呼呼太棒了|2026-08-03 色彩鲜艳的船只历久弥新的传统|
+|2026-08-06 生死渡口勇者的史诗|2026-08-05 秘境之门匠心传世|2026-08-04 呼呼太棒了|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260805_秘境之门匠心传世.jpg" width="300"> | <img src="Basics/2026/08/20260804_呼呼太棒了.jpg" width="300"> | <img src="Basics/2026/08/20260803_色彩鲜艳的船只历久弥新的传统.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260805_秘境之门匠心传世.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260804_呼呼太棒了.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260803_色彩鲜艳的船只历久弥新的传统.jpg)**|
+| <img src="Basics/2026/08/20260806_生死渡口勇者的史诗.jpg" width="300"> | <img src="Basics/2026/08/20260805_秘境之门匠心传世.jpg" width="300"> | <img src="Basics/2026/08/20260804_呼呼太棒了.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260806_生死渡口勇者的史诗.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260805_秘境之门匠心传世.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260804_呼呼太棒了.jpg)**|
 
 <!-- gallery_end -->
 
