@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-07 指引船只穿越历史|2026-08-06 生死渡口勇者的史诗|2026-08-05 秘境之门匠心传世|
+|2026-08-08 迈向无限|2026-08-07 指引船只穿越历史|2026-08-06 生死渡口勇者的史诗|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260807_指引船只穿越历史.jpg" width="300"> | <img src="Basics/2026/08/20260806_生死渡口勇者的史诗.jpg" width="300"> | <img src="Basics/2026/08/20260805_秘境之门匠心传世.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260807_指引船只穿越历史.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260806_生死渡口勇者的史诗.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260805_秘境之门匠心传世.jpg)**|
+| <img src="Basics/2026/08/20260808_迈向无限.jpg" width="300"> | <img src="Basics/2026/08/20260807_指引船只穿越历史.jpg" width="300"> | <img src="Basics/2026/08/20260806_生死渡口勇者的史诗.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260808_迈向无限.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260807_指引船只穿越历史.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260806_生死渡口勇者的史诗.jpg)**|
 
 <!-- gallery_end -->
 
