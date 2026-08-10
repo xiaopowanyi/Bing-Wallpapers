@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-09 身份认同的建筑表达|2026-08-08 迈向无限|2026-08-07 指引船只穿越历史|
+|2026-08-10 两片沙漠交汇之地|2026-08-09 身份认同的建筑表达|2026-08-08 迈向无限|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260809_身份认同的建筑表达.jpg" width="300"> | <img src="Basics/2026/08/20260808_迈向无限.jpg" width="300"> | <img src="Basics/2026/08/20260807_指引船只穿越历史.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260809_身份认同的建筑表达.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260808_迈向无限.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260807_指引船只穿越历史.jpg)**|
+| <img src="Basics/2026/08/20260810_两片沙漠交汇之地.jpg" width="300"> | <img src="Basics/2026/08/20260809_身份认同的建筑表达.jpg" width="300"> | <img src="Basics/2026/08/20260808_迈向无限.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260810_两片沙漠交汇之地.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260809_身份认同的建筑表达.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260808_迈向无限.jpg)**|
 
 <!-- gallery_end -->
 
