@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-11 绚丽多彩的哥本哈根|2026-08-10 两片沙漠交汇之地|2026-08-09 身份认同的建筑表达|
+|2026-08-12 值得守护的巨兽|2026-08-11 绚丽多彩的哥本哈根|2026-08-10 两片沙漠交汇之地|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260811_绚丽多彩的哥本哈根.jpg" width="300"> | <img src="Basics/2026/08/20260810_两片沙漠交汇之地.jpg" width="300"> | <img src="Basics/2026/08/20260809_身份认同的建筑表达.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260811_绚丽多彩的哥本哈根.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260810_两片沙漠交汇之地.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260809_身份认同的建筑表达.jpg)**|
+| <img src="Basics/2026/08/20260812_值得守护的巨兽.jpg" width="300"> | <img src="Basics/2026/08/20260811_绚丽多彩的哥本哈根.jpg" width="300"> | <img src="Basics/2026/08/20260810_两片沙漠交汇之地.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260812_值得守护的巨兽.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260811_绚丽多彩的哥本哈根.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260810_两片沙漠交汇之地.jpg)**|
 
 <!-- gallery_end -->
 
