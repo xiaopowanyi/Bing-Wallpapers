@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-13 许个愿吧|2026-08-12 值得守护的巨兽|2026-08-11 绚丽多彩的哥本哈根|
+|2026-08-14 为动物脚掌而建而非行人|2026-08-13 许个愿吧|2026-08-12 值得守护的巨兽|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260813_许个愿吧.jpg" width="300"> | <img src="Basics/2026/08/20260812_值得守护的巨兽.jpg" width="300"> | <img src="Basics/2026/08/20260811_绚丽多彩的哥本哈根.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260813_许个愿吧.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260812_值得守护的巨兽.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260811_绚丽多彩的哥本哈根.jpg)**|
+| <img src="Basics/2026/08/20260814_为动物脚掌而建而非行人.jpg" width="300"> | <img src="Basics/2026/08/20260813_许个愿吧.jpg" width="300"> | <img src="Basics/2026/08/20260812_值得守护的巨兽.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260814_为动物脚掌而建而非行人.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260813_许个愿吧.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260812_值得守护的巨兽.jpg)**|
 
 <!-- gallery_end -->
 
