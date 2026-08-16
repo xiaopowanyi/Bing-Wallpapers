@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-15 绝妙的平衡术|2026-08-14 为动物脚掌而建而非行人|2026-08-13 许个愿吧|
+|2026-08-16 天鹅开启传奇之处|2026-08-15 绝妙的平衡术|2026-08-14 为动物脚掌而建而非行人|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260815_绝妙的平衡术.jpg" width="300"> | <img src="Basics/2026/08/20260814_为动物脚掌而建而非行人.jpg" width="300"> | <img src="Basics/2026/08/20260813_许个愿吧.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260815_绝妙的平衡术.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260814_为动物脚掌而建而非行人.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260813_许个愿吧.jpg)**|
+| <img src="Basics/2026/08/20260816_天鹅开启传奇之处.jpg" width="300"> | <img src="Basics/2026/08/20260815_绝妙的平衡术.jpg" width="300"> | <img src="Basics/2026/08/20260814_为动物脚掌而建而非行人.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260816_天鹅开启传奇之处.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260815_绝妙的平衡术.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260814_为动物脚掌而建而非行人.jpg)**|
 
 <!-- gallery_end -->
 
