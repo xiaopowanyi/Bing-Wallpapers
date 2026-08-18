@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-17 珊瑚礁上的黄金地段|2026-08-16 天鹅开启传奇之处|2026-08-15 绝妙的平衡术|
+|2026-08-18 星形城市的几何之美|2026-08-17 珊瑚礁上的黄金地段|2026-08-16 天鹅开启传奇之处|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260817_珊瑚礁上的黄金地段.jpg" width="300"> | <img src="Basics/2026/08/20260816_天鹅开启传奇之处.jpg" width="300"> | <img src="Basics/2026/08/20260815_绝妙的平衡术.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260817_珊瑚礁上的黄金地段.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260816_天鹅开启传奇之处.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260815_绝妙的平衡术.jpg)**|
+| <img src="Basics/2026/08/20260818_星形城市的几何之美.jpg" width="300"> | <img src="Basics/2026/08/20260817_珊瑚礁上的黄金地段.jpg" width="300"> | <img src="Basics/2026/08/20260816_天鹅开启传奇之处.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260818_星形城市的几何之美.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260817_珊瑚礁上的黄金地段.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260816_天鹅开启传奇之处.jpg)**|
 
 <!-- gallery_end -->
 
