@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-21 攀登在召唤|2026-08-20 鲸群之声|2026-08-19 浪潮间的通道|
+|2026-08-22 天蓝色的翅膀|2026-08-21 攀登在召唤|2026-08-20 鲸群之声|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260821_攀登在召唤.jpg" width="300"> | <img src="Basics/2026/08/20260820_鲸群之声.jpg" width="300"> | <img src="Basics/2026/08/20260819_浪潮间的通道.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260821_攀登在召唤.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260820_鲸群之声.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260819_浪潮间的通道.jpg)**|
+| <img src="Basics/2026/08/20260822_天蓝色的翅膀.jpg" width="300"> | <img src="Basics/2026/08/20260821_攀登在召唤.jpg" width="300"> | <img src="Basics/2026/08/20260820_鲸群之声.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260822_天蓝色的翅膀.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260821_攀登在召唤.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260820_鲸群之声.jpg)**|
 
 <!-- gallery_end -->
 
