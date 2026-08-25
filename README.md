@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-24 跨越历史|2026-08-23 暑气渐消金秋已至|2026-08-22 天蓝色的翅膀|
+|2026-08-25 守护美国瑰宝|2026-08-24 跨越历史|2026-08-23 暑气渐消金秋已至|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260824_跨越历史.jpg" width="300"> | <img src="Basics/2026/08/20260823_暑气渐消金秋已至.jpg" width="300"> | <img src="Basics/2026/08/20260822_天蓝色的翅膀.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260824_跨越历史.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260823_暑气渐消金秋已至.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260822_天蓝色的翅膀.jpg)**|
+| <img src="Basics/2026/08/20260825_守护美国瑰宝.jpg" width="300"> | <img src="Basics/2026/08/20260824_跨越历史.jpg" width="300"> | <img src="Basics/2026/08/20260823_暑气渐消金秋已至.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260825_守护美国瑰宝.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260824_跨越历史.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260823_暑气渐消金秋已至.jpg)**|
 
 <!-- gallery_end -->
 
