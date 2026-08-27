@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-26 流光溢彩的天空|2026-08-25 守护美国瑰宝|2026-08-24 跨越历史|
+|2026-08-27 湖水野生动物与奇景|2026-08-26 流光溢彩的天空|2026-08-25 守护美国瑰宝|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260826_流光溢彩的天空.jpg" width="300"> | <img src="Basics/2026/08/20260825_守护美国瑰宝.jpg" width="300"> | <img src="Basics/2026/08/20260824_跨越历史.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260826_流光溢彩的天空.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260825_守护美国瑰宝.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260824_跨越历史.jpg)**|
+| <img src="Basics/2026/08/20260827_湖水野生动物与奇景.jpg" width="300"> | <img src="Basics/2026/08/20260826_流光溢彩的天空.jpg" width="300"> | <img src="Basics/2026/08/20260825_守护美国瑰宝.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260827_湖水野生动物与奇景.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260826_流光溢彩的天空.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260825_守护美国瑰宝.jpg)**|
 
 <!-- gallery_end -->
 
