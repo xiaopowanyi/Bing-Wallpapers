@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-28 潮汐塑造的传奇|2026-08-27 湖水野生动物与奇景|2026-08-26 流光溢彩的天空|
+|2026-08-29 读懂浪涛之间的讯息|2026-08-28 潮汐塑造的传奇|2026-08-27 湖水野生动物与奇景|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260828_潮汐塑造的传奇.jpg" width="300"> | <img src="Basics/2026/08/20260827_湖水野生动物与奇景.jpg" width="300"> | <img src="Basics/2026/08/20260826_流光溢彩的天空.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260828_潮汐塑造的传奇.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260827_湖水野生动物与奇景.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260826_流光溢彩的天空.jpg)**|
+| <img src="Basics/2026/08/20260829_读懂浪涛之间的讯息.jpg" width="300"> | <img src="Basics/2026/08/20260828_潮汐塑造的传奇.jpg" width="300"> | <img src="Basics/2026/08/20260827_湖水野生动物与奇景.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260829_读懂浪涛之间的讯息.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260828_潮汐塑造的传奇.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260827_湖水野生动物与奇景.jpg)**|
 
 <!-- gallery_end -->
 
