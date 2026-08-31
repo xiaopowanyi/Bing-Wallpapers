@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-08-30 名为鲨鱼的巨型鱼类|2026-08-29 读懂浪涛之间的讯息|2026-08-28 潮汐塑造的传奇|
+|2026-08-31 图案艺术的典范|2026-08-30 名为鲨鱼的巨型鱼类|2026-08-29 读懂浪涛之间的讯息|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/08/20260830_名为鲨鱼的巨型鱼类.jpg" width="300"> | <img src="Basics/2026/08/20260829_读懂浪涛之间的讯息.jpg" width="300"> | <img src="Basics/2026/08/20260828_潮汐塑造的传奇.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260830_名为鲨鱼的巨型鱼类.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260829_读懂浪涛之间的讯息.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260828_潮汐塑造的传奇.jpg)**|
+| <img src="Basics/2026/08/20260831_图案艺术的典范.jpg" width="300"> | <img src="Basics/2026/08/20260830_名为鲨鱼的巨型鱼类.jpg" width="300"> | <img src="Basics/2026/08/20260829_读懂浪涛之间的讯息.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260831_图案艺术的典范.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260830_名为鲨鱼的巨型鱼类.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/08/20260829_读懂浪涛之间的讯息.jpg)**|
 
 <!-- gallery_end -->
 
