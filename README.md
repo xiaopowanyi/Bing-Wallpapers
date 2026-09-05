@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-09-04 地平线上的红与白|2026-09-03 一部守护荒野的法案|2026-09-02 海岸边的缤纷色彩|
+|2026-09-05 小小鸟儿巨大影响|2026-09-04 地平线上的红与白|2026-09-03 一部守护荒野的法案|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/09/20260904_地平线上的红与白.jpg" width="300"> | <img src="Basics/2026/09/20260903_一部守护荒野的法案.jpg" width="300"> | <img src="Basics/2026/09/20260902_海岸边的缤纷色彩.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260904_地平线上的红与白.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260903_一部守护荒野的法案.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260902_海岸边的缤纷色彩.jpg)**|
+| <img src="Basics/2026/09/20260905_小小鸟儿巨大影响.jpg" width="300"> | <img src="Basics/2026/09/20260904_地平线上的红与白.jpg" width="300"> | <img src="Basics/2026/09/20260903_一部守护荒野的法案.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260905_小小鸟儿巨大影响.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260904_地平线上的红与白.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260903_一部守护荒野的法案.jpg)**|
 
 <!-- gallery_end -->
 
