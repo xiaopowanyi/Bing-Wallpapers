@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-09-07 历史沿运河流淌之地|2026-09-06 倒影满湖的水库|2026-09-05 小小鸟儿巨大影响|
+|2026-09-08 金色田野|2026-09-07 历史沿运河流淌之地|2026-09-06 倒影满湖的水库|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/09/20260907_历史沿运河流淌之地.jpg" width="300"> | <img src="Basics/2026/09/20260906_倒影满湖的水库.jpg" width="300"> | <img src="Basics/2026/09/20260905_小小鸟儿巨大影响.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260907_历史沿运河流淌之地.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260906_倒影满湖的水库.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260905_小小鸟儿巨大影响.jpg)**|
+| <img src="Basics/2026/09/20260908_金色田野.jpg" width="300"> | <img src="Basics/2026/09/20260907_历史沿运河流淌之地.jpg" width="300"> | <img src="Basics/2026/09/20260906_倒影满湖的水库.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260908_金色田野.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260907_历史沿运河流淌之地.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260906_倒影满湖的水库.jpg)**|
 
 <!-- gallery_end -->
 
