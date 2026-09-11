@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-09-10 俯瞰大地拼图|2026-09-09 印度西海岸的生活|2026-09-08 金色田野|
+|2026-09-11 地中海风情尽显|2026-09-10 俯瞰大地拼图|2026-09-09 印度西海岸的生活|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/09/20260910_俯瞰大地拼图.jpg" width="300"> | <img src="Basics/2026/09/20260909_印度西海岸的生活.jpg" width="300"> | <img src="Basics/2026/09/20260908_金色田野.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260910_俯瞰大地拼图.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260909_印度西海岸的生活.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260908_金色田野.jpg)**|
+| <img src="Basics/2026/09/20260911_地中海风情尽显.jpg" width="300"> | <img src="Basics/2026/09/20260910_俯瞰大地拼图.jpg" width="300"> | <img src="Basics/2026/09/20260909_印度西海岸的生活.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260911_地中海风情尽显.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260910_俯瞰大地拼图.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260909_印度西海岸的生活.jpg)**|
 
 <!-- gallery_end -->
 
