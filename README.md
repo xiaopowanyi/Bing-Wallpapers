@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-09-14 坚韧在此扎根|2026-09-13 高处的珊瑚礁|2026-09-12 海浪与海岸的高手|
+|2026-09-15 最炫者生存|2026-09-14 坚韧在此扎根|2026-09-13 高处的珊瑚礁|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/09/20260914_坚韧在此扎根.jpg" width="300"> | <img src="Basics/2026/09/20260913_高处的珊瑚礁.jpg" width="300"> | <img src="Basics/2026/09/20260912_海浪与海岸的高手.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260914_坚韧在此扎根.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260913_高处的珊瑚礁.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260912_海浪与海岸的高手.jpg)**|
+| <img src="Basics/2026/09/20260915_最炫者生存.jpg" width="300"> | <img src="Basics/2026/09/20260914_坚韧在此扎根.jpg" width="300"> | <img src="Basics/2026/09/20260913_高处的珊瑚礁.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260915_最炫者生存.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260914_坚韧在此扎根.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260913_高处的珊瑚礁.jpg)**|
 
 <!-- gallery_end -->
 
