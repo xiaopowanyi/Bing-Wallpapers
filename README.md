@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-09-22 金色时节|2026-09-21 皮毛与海洋之间的生命|2026-09-20 终获巴黎青睐的铁塔|
+|2026-09-23 金秋平分地坛染黄|2026-09-22 金色时节|2026-09-21 皮毛与海洋之间的生命|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/09/20260922_金色时节.jpg" width="300"> | <img src="Basics/2026/09/20260921_皮毛与海洋之间的生命.jpg" width="300"> | <img src="Basics/2026/09/20260920_终获巴黎青睐的铁塔.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260922_金色时节.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260921_皮毛与海洋之间的生命.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260920_终获巴黎青睐的铁塔.jpg)**|
+| <img src="Basics/2026/09/20260923_金秋平分地坛染黄.jpg" width="300"> | <img src="Basics/2026/09/20260922_金色时节.jpg" width="300"> | <img src="Basics/2026/09/20260921_皮毛与海洋之间的生命.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260923_金秋平分地坛染黄.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260922_金色时节.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260921_皮毛与海洋之间的生命.jpg)**|
 
 <!-- gallery_end -->
 
