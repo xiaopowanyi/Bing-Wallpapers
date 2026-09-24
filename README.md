@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-09-23 金秋平分地坛染黄|2026-09-22 金色时节|2026-09-21 皮毛与海洋之间的生命|
+|2026-09-24 火山灰与浪花相遇|2026-09-23 金秋平分地坛染黄|2026-09-22 金色时节|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/09/20260923_金秋平分地坛染黄.jpg" width="300"> | <img src="Basics/2026/09/20260922_金色时节.jpg" width="300"> | <img src="Basics/2026/09/20260921_皮毛与海洋之间的生命.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260923_金秋平分地坛染黄.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260922_金色时节.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260921_皮毛与海洋之间的生命.jpg)**|
+| <img src="Basics/2026/09/20260924_火山灰与浪花相遇.jpg" width="300"> | <img src="Basics/2026/09/20260923_金秋平分地坛染黄.jpg" width="300"> | <img src="Basics/2026/09/20260922_金色时节.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260924_火山灰与浪花相遇.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260923_金秋平分地坛染黄.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260922_金色时节.jpg)**|
 
 <!-- gallery_end -->
 
