@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-09-27 深海夜花园|2026-09-26 写在大地上的故事|2026-09-25 当月亮也来赴会|
+|2026-09-28 可览美景的历史胜地|2026-09-27 深海夜花园|2026-09-26 写在大地上的故事|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/09/20260927_深海夜花园.jpg" width="300"> | <img src="Basics/2026/09/20260926_写在大地上的故事.jpg" width="300"> | <img src="Basics/2026/09/20260925_当月亮也来赴会.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260927_深海夜花园.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260926_写在大地上的故事.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260925_当月亮也来赴会.jpg)**|
+| <img src="Basics/2026/09/20260928_可览美景的历史胜地.jpg" width="300"> | <img src="Basics/2026/09/20260927_深海夜花园.jpg" width="300"> | <img src="Basics/2026/09/20260926_写在大地上的故事.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260928_可览美景的历史胜地.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260927_深海夜花园.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260926_写在大地上的故事.jpg)**|
 
 <!-- gallery_end -->
 
