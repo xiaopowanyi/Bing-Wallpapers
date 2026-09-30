@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-09-29 冰川孕育之河|2026-09-28 可览美景的历史胜地|2026-09-27 深海夜花园|
+|2026-09-30 一张令人过目难忘的脸|2026-09-29 冰川孕育之河|2026-09-28 可览美景的历史胜地|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/09/20260929_冰川孕育之河.jpg" width="300"> | <img src="Basics/2026/09/20260928_可览美景的历史胜地.jpg" width="300"> | <img src="Basics/2026/09/20260927_深海夜花园.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260929_冰川孕育之河.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260928_可览美景的历史胜地.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260927_深海夜花园.jpg)**|
+| <img src="Basics/2026/09/20260930_一张令人过目难忘的脸.jpg" width="300"> | <img src="Basics/2026/09/20260929_冰川孕育之河.jpg" width="300"> | <img src="Basics/2026/09/20260928_可览美景的历史胜地.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260930_一张令人过目难忘的脸.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260929_冰川孕育之河.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260928_可览美景的历史胜地.jpg)**|
 
 <!-- gallery_end -->
 
