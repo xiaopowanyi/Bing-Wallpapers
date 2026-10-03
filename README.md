@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-10-02 一条值得保护的河流|2026-10-01 在花岗岩中读懂时间|2026-09-30 一张令人过目难忘的脸|
+|2026-10-03 捕捉进食重复|2026-10-02 一条值得保护的河流|2026-10-01 在花岗岩中读懂时间|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/10/20261002_一条值得保护的河流.jpg" width="300"> | <img src="Basics/2026/10/20261001_在花岗岩中读懂时间.jpg" width="300"> | <img src="Basics/2026/09/20260930_一张令人过目难忘的脸.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261002_一条值得保护的河流.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261001_在花岗岩中读懂时间.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/09/20260930_一张令人过目难忘的脸.jpg)**|
+| <img src="Basics/2026/10/20261003_捕捉进食重复.jpg" width="300"> | <img src="Basics/2026/10/20261002_一条值得保护的河流.jpg" width="300"> | <img src="Basics/2026/10/20261001_在花岗岩中读懂时间.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261003_捕捉进食重复.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261002_一条值得保护的河流.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261001_在花岗岩中读懂时间.jpg)**|
 
 <!-- gallery_end -->
 
