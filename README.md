@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-10-04 宇宙在召唤|2026-10-03 捕捉进食重复|2026-10-02 一条值得保护的河流|
+|2026-10-05 纵身一跃一次一课|2026-10-04 宇宙在召唤|2026-10-03 捕捉进食重复|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/10/20261004_宇宙在召唤.jpg" width="300"> | <img src="Basics/2026/10/20261003_捕捉进食重复.jpg" width="300"> | <img src="Basics/2026/10/20261002_一条值得保护的河流.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261004_宇宙在召唤.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261003_捕捉进食重复.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261002_一条值得保护的河流.jpg)**|
+| <img src="Basics/2026/10/20261005_纵身一跃一次一课.jpg" width="300"> | <img src="Basics/2026/10/20261004_宇宙在召唤.jpg" width="300"> | <img src="Basics/2026/10/20261003_捕捉进食重复.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261005_纵身一跃一次一课.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261004_宇宙在召唤.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261003_捕捉进食重复.jpg)**|
 
 <!-- gallery_end -->
 
