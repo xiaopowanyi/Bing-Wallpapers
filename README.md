@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-10-05 纵身一跃一次一课|2026-10-04 宇宙在召唤|2026-10-03 捕捉进食重复|
+|2026-10-06 条纹中的地球故事|2026-10-05 纵身一跃一次一课|2026-10-04 宇宙在召唤|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/10/20261005_纵身一跃一次一课.jpg" width="300"> | <img src="Basics/2026/10/20261004_宇宙在召唤.jpg" width="300"> | <img src="Basics/2026/10/20261003_捕捉进食重复.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261005_纵身一跃一次一课.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261004_宇宙在召唤.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261003_捕捉进食重复.jpg)**|
+| <img src="Basics/2026/10/20261006_条纹中的地球故事.jpg" width="300"> | <img src="Basics/2026/10/20261005_纵身一跃一次一课.jpg" width="300"> | <img src="Basics/2026/10/20261004_宇宙在召唤.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261006_条纹中的地球故事.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261005_纵身一跃一次一课.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261004_宇宙在召唤.jpg)**|
 
 <!-- gallery_end -->
 
