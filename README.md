@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-10-11 秋色中转动的水轮|2026-10-10 迁飞路线上的生命|2026-10-09 科西嘉岛的岩石前哨|
+|2026-10-12 从铁轨到潮汐|2026-10-11 秋色中转动的水轮|2026-10-10 迁飞路线上的生命|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/10/20261011_秋色中转动的水轮.jpg" width="300"> | <img src="Basics/2026/10/20261010_迁飞路线上的生命.jpg" width="300"> | <img src="Basics/2026/10/20261009_科西嘉岛的岩石前哨.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261011_秋色中转动的水轮.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261010_迁飞路线上的生命.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261009_科西嘉岛的岩石前哨.jpg)**|
+| <img src="Basics/2026/10/20261012_从铁轨到潮汐.jpg" width="300"> | <img src="Basics/2026/10/20261011_秋色中转动的水轮.jpg" width="300"> | <img src="Basics/2026/10/20261010_迁飞路线上的生命.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261012_从铁轨到潮汐.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261011_秋色中转动的水轮.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261010_迁飞路线上的生命.jpg)**|
 
 <!-- gallery_end -->
 
