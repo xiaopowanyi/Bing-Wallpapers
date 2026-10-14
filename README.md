@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-10-13 蓝与绿的交响曲|2026-10-12 从铁轨到潮汐|2026-10-11 秋色中转动的水轮|
+|2026-10-14 穿越时间的螺旋|2026-10-13 蓝与绿的交响曲|2026-10-12 从铁轨到潮汐|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/10/20261013_蓝与绿的交响曲.jpg" width="300"> | <img src="Basics/2026/10/20261012_从铁轨到潮汐.jpg" width="300"> | <img src="Basics/2026/10/20261011_秋色中转动的水轮.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261013_蓝与绿的交响曲.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261012_从铁轨到潮汐.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261011_秋色中转动的水轮.jpg)**|
+| <img src="Basics/2026/10/20261014_穿越时间的螺旋.jpg" width="300"> | <img src="Basics/2026/10/20261013_蓝与绿的交响曲.jpg" width="300"> | <img src="Basics/2026/10/20261012_从铁轨到潮汐.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261014_穿越时间的螺旋.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261013_蓝与绿的交响曲.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261012_从铁轨到潮汐.jpg)**|
 
 <!-- gallery_end -->
 
