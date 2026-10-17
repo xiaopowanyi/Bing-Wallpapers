@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-10-16 一窥科罗拉多群峰|2026-10-15 桥梁屋顶与暮色|2026-10-14 穿越时间的螺旋|
+|2026-10-17 发掘尘封的过去|2026-10-16 一窥科罗拉多群峰|2026-10-15 桥梁屋顶与暮色|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/10/20261016_一窥科罗拉多群峰.jpg" width="300"> | <img src="Basics/2026/10/20261015_桥梁屋顶与暮色.jpg" width="300"> | <img src="Basics/2026/10/20261014_穿越时间的螺旋.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261016_一窥科罗拉多群峰.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261015_桥梁屋顶与暮色.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261014_穿越时间的螺旋.jpg)**|
+| <img src="Basics/2026/10/20261017_发掘尘封的过去.jpg" width="300"> | <img src="Basics/2026/10/20261016_一窥科罗拉多群峰.jpg" width="300"> | <img src="Basics/2026/10/20261015_桥梁屋顶与暮色.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261017_发掘尘封的过去.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261016_一窥科罗拉多群峰.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261015_桥梁屋顶与暮色.jpg)**|
 
 <!-- gallery_end -->
 
