@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-10-18 75载风华正茂|2026-10-17 发掘尘封的过去|2026-10-16 一窥科罗拉多群峰|
+|2026-10-19 水上通衢|2026-10-18 75载风华正茂|2026-10-17 发掘尘封的过去|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/10/20261018_75载风华正茂.jpg" width="300"> | <img src="Basics/2026/10/20261017_发掘尘封的过去.jpg" width="300"> | <img src="Basics/2026/10/20261016_一窥科罗拉多群峰.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261018_75载风华正茂.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261017_发掘尘封的过去.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261016_一窥科罗拉多群峰.jpg)**|
+| <img src="Basics/2026/10/20261019_水上通衢.jpg" width="300"> | <img src="Basics/2026/10/20261018_75载风华正茂.jpg" width="300"> | <img src="Basics/2026/10/20261017_发掘尘封的过去.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261019_水上通衢.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261018_75载风华正茂.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261017_发掘尘封的过去.jpg)**|
 
 <!-- gallery_end -->
 
