@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-10-22 静水映斑斓|2026-10-21 飞掠河面|2026-10-20 慢节奏生活|
+|2026-10-23 荒野伙伴|2026-10-22 静水映斑斓|2026-10-21 飞掠河面|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/10/20261022_静水映斑斓.jpg" width="300"> | <img src="Basics/2026/10/20261021_飞掠河面.jpg" width="300"> | <img src="Basics/2026/10/20261020_慢节奏生活.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261022_静水映斑斓.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261021_飞掠河面.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261020_慢节奏生活.jpg)**|
+| <img src="Basics/2026/10/20261023_荒野伙伴.jpg" width="300"> | <img src="Basics/2026/10/20261022_静水映斑斓.jpg" width="300"> | <img src="Basics/2026/10/20261021_飞掠河面.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261023_荒野伙伴.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261022_静水映斑斓.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261021_飞掠河面.jpg)**|
 
 <!-- gallery_end -->
 
