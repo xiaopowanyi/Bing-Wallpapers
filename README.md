@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-10-25 群峰与宁静相遇之地|2026-10-24 书香里的极致华美|2026-10-23 荒野伙伴|
+|2026-10-26 大自然的秋日乐章|2026-10-25 群峰与宁静相遇之地|2026-10-24 书香里的极致华美|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/10/20261025_群峰与宁静相遇之地.jpg" width="300"> | <img src="Basics/2026/10/20261024_书香里的极致华美.jpg" width="300"> | <img src="Basics/2026/10/20261023_荒野伙伴.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261025_群峰与宁静相遇之地.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261024_书香里的极致华美.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261023_荒野伙伴.jpg)**|
+| <img src="Basics/2026/10/20261026_大自然的秋日乐章.jpg" width="300"> | <img src="Basics/2026/10/20261025_群峰与宁静相遇之地.jpg" width="300"> | <img src="Basics/2026/10/20261024_书香里的极致华美.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261026_大自然的秋日乐章.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261025_群峰与宁静相遇之地.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261024_书香里的极致华美.jpg)**|
 
 <!-- gallery_end -->
 
