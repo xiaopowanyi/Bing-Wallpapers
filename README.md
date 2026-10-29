@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-10-28 历史守望之地|2026-10-27 大自然的金色明镜|2026-10-26 大自然的秋日乐章|
+|2026-10-29 薄雾邂逅千年时光|2026-10-28 历史守望之地|2026-10-27 大自然的金色明镜|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/10/20261028_历史守望之地.jpg" width="300"> | <img src="Basics/2026/10/20261027_大自然的金色明镜.jpg" width="300"> | <img src="Basics/2026/10/20261026_大自然的秋日乐章.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261028_历史守望之地.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261027_大自然的金色明镜.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261026_大自然的秋日乐章.jpg)**|
+| <img src="Basics/2026/10/20261029_薄雾邂逅千年时光.jpg" width="300"> | <img src="Basics/2026/10/20261028_历史守望之地.jpg" width="300"> | <img src="Basics/2026/10/20261027_大自然的金色明镜.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261029_薄雾邂逅千年时光.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261028_历史守望之地.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261027_大自然的金色明镜.jpg)**|
 
 <!-- gallery_end -->
 
