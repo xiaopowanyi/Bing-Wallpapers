@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-10-31 往昔帝国的幽影|2026-10-30 展翅高飞的时节|2026-10-29 薄雾邂逅千年时光|
+|2026-11-01 林间迷雾|2026-10-31 往昔帝国的幽影|2026-10-30 展翅高飞的时节|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/10/20261031_往昔帝国的幽影.jpg" width="300"> | <img src="Basics/2026/10/20261030_展翅高飞的时节.jpg" width="300"> | <img src="Basics/2026/10/20261029_薄雾邂逅千年时光.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261031_往昔帝国的幽影.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261030_展翅高飞的时节.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261029_薄雾邂逅千年时光.jpg)**|
+| <img src="Basics/2026/11/20261101_林间迷雾.jpg" width="300"> | <img src="Basics/2026/10/20261031_往昔帝国的幽影.jpg" width="300"> | <img src="Basics/2026/10/20261030_展翅高飞的时节.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261101_林间迷雾.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261031_往昔帝国的幽影.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261030_展翅高飞的时节.jpg)**|
 
 <!-- gallery_end -->
 
