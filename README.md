@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-11-02 写在冰上的未来|2026-11-01 林间迷雾|2026-10-31 往昔帝国的幽影|
+|2026-11-03 群峰间的宁静|2026-11-02 写在冰上的未来|2026-11-01 林间迷雾|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/11/20261102_写在冰上的未来.jpg" width="300"> | <img src="Basics/2026/11/20261101_林间迷雾.jpg" width="300"> | <img src="Basics/2026/10/20261031_往昔帝国的幽影.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261102_写在冰上的未来.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261101_林间迷雾.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/10/20261031_往昔帝国的幽影.jpg)**|
+| <img src="Basics/2026/11/20261103_群峰间的宁静.jpg" width="300"> | <img src="Basics/2026/11/20261102_写在冰上的未来.jpg" width="300"> | <img src="Basics/2026/11/20261101_林间迷雾.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261103_群峰间的宁静.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261102_写在冰上的未来.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261101_林间迷雾.jpg)**|
 
 <!-- gallery_end -->
 
