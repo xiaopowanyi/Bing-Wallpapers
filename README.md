@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-11-06 穿越毛伊岛的绿色隧道|2026-11-05 向山巅再迈一步|2026-11-04 泛舟如画秋林|
+|2026-11-07 归来的草原巨兽|2026-11-06 穿越毛伊岛的绿色隧道|2026-11-05 向山巅再迈一步|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/11/20261106_穿越毛伊岛的绿色隧道.jpg" width="300"> | <img src="Basics/2026/11/20261105_向山巅再迈一步.jpg" width="300"> | <img src="Basics/2026/11/20261104_泛舟如画秋林.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261106_穿越毛伊岛的绿色隧道.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261105_向山巅再迈一步.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261104_泛舟如画秋林.jpg)**|
+| <img src="Basics/2026/11/20261107_归来的草原巨兽.jpg" width="300"> | <img src="Basics/2026/11/20261106_穿越毛伊岛的绿色隧道.jpg" width="300"> | <img src="Basics/2026/11/20261105_向山巅再迈一步.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261107_归来的草原巨兽.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261106_穿越毛伊岛的绿色隧道.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261105_向山巅再迈一步.jpg)**|
 
 <!-- gallery_end -->
 
