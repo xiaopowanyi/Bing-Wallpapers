@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-11-10 惬意放松尽享海岛时光|2026-11-09 艺术与韵律交汇之地|2026-11-08 光芒四射的节日|
+|2026-11-11 奇妙纷呈的森林|2026-11-10 惬意放松尽享海岛时光|2026-11-09 艺术与韵律交汇之地|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/11/20261110_惬意放松尽享海岛时光.jpg" width="300"> | <img src="Basics/2026/11/20261109_艺术与韵律交汇之地.jpg" width="300"> | <img src="Basics/2026/11/20261108_光芒四射的节日.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261110_惬意放松尽享海岛时光.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261109_艺术与韵律交汇之地.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261108_光芒四射的节日.jpg)**|
+| <img src="Basics/2026/11/20261111_奇妙纷呈的森林.jpg" width="300"> | <img src="Basics/2026/11/20261110_惬意放松尽享海岛时光.jpg" width="300"> | <img src="Basics/2026/11/20261109_艺术与韵律交汇之地.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261111_奇妙纷呈的森林.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261110_惬意放松尽享海岛时光.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261109_艺术与韵律交汇之地.jpg)**|
 
 <!-- gallery_end -->
 
