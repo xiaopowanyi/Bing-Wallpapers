@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-11-14 唯有向上发展|2026-11-13 冰下秘境|2026-11-12 没有建筑师的建筑杰作|
+|2026-11-15 霜染枝叶|2026-11-14 唯有向上发展|2026-11-13 冰下秘境|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/11/20261114_唯有向上发展.jpg" width="300"> | <img src="Basics/2026/11/20261113_冰下秘境.jpg" width="300"> | <img src="Basics/2026/11/20261112_没有建筑师的建筑杰作.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261114_唯有向上发展.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261113_冰下秘境.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261112_没有建筑师的建筑杰作.jpg)**|
+| <img src="Basics/2026/11/20261115_霜染枝叶.jpg" width="300"> | <img src="Basics/2026/11/20261114_唯有向上发展.jpg" width="300"> | <img src="Basics/2026/11/20261113_冰下秘境.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261115_霜染枝叶.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261114_唯有向上发展.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261113_冰下秘境.jpg)**|
 
 <!-- gallery_end -->
 
