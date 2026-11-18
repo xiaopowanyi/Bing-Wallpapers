@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-11-17 走进广阔的大自然|2026-11-16 历经岁月屹立不倒|2026-11-15 霜染枝叶|
+|2026-11-18 从黄昏狩猎到黎明|2026-11-17 走进广阔的大自然|2026-11-16 历经岁月屹立不倒|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/11/20261117_走进广阔的大自然.jpg" width="300"> | <img src="Basics/2026/11/20261116_历经岁月屹立不倒.jpg" width="300"> | <img src="Basics/2026/11/20261115_霜染枝叶.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261117_走进广阔的大自然.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261116_历经岁月屹立不倒.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261115_霜染枝叶.jpg)**|
+| <img src="Basics/2026/11/20261118_从黄昏狩猎到黎明.jpg" width="300"> | <img src="Basics/2026/11/20261117_走进广阔的大自然.jpg" width="300"> | <img src="Basics/2026/11/20261116_历经岁月屹立不倒.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261118_从黄昏狩猎到黎明.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261117_走进广阔的大自然.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261116_历经岁月屹立不倒.jpg)**|
 
 <!-- gallery_end -->
 
