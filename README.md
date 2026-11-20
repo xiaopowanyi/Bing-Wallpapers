@@ -12,10 +12,10 @@
 <!-- gallery_start -->
 ## 🌟 最新壁纸
 
-|2026-11-19 思想在此成形|2026-11-18 从黄昏狩猎到黎明|2026-11-17 走进广阔的大自然|
+|2026-11-20 在峡湾中大快朵颐|2026-11-19 思想在此成形|2026-11-18 从黄昏狩猎到黎明|
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
-| <img src="Basics/2026/11/20261119_思想在此成形.jpg" width="300"> | <img src="Basics/2026/11/20261118_从黄昏狩猎到黎明.jpg" width="300"> | <img src="Basics/2026/11/20261117_走进广阔的大自然.jpg" width="300"> |
-|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261119_思想在此成形.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261118_从黄昏狩猎到黎明.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261117_走进广阔的大自然.jpg)**|
+| <img src="Basics/2026/11/20261120_在峡湾中大快朵颐.jpg" width="300"> | <img src="Basics/2026/11/20261119_思想在此成形.jpg" width="300"> | <img src="Basics/2026/11/20261118_从黄昏狩猎到黎明.jpg" width="300"> |
+|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261120_在峡湾中大快朵颐.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261119_思想在此成形.jpg)**|**[UHD 原图下载](https://raw.githubusercontent.com/xiaopowanyi/Bing-Wallpapers/refs/heads/main/Basics/2026/11/20261118_从黄昏狩猎到黎明.jpg)**|
 
 <!-- gallery_end -->
 
